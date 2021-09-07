@@ -3,19 +3,10 @@
 ### RɪZᴏᴇL X Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
 <p align="center"><a href="https://t.me/RiZoeLXMusic_Bot"><img src="https://telegra.ph/file/bfa483fd30e48867f234a.jpg" width="300"></a></p>
-# ᴄʀᴇᴀᴛᴏʀ
+
+### ᴄʀᴇᴀᴛᴏʀ
  [![telegram badge](https://img.shields.io/badge/RiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
 
-<p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/MrRizoel/RiZoeLXMusic2.O/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O"> <img src="https://img.shields.io/github/repo-size/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/commits/main"> <img src="https://img.shields.io/github/last-commit/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/issues"> <img src="https://img.shields.io/github/issues/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/network/members"> <img src="https://img.shields.io/github/forks/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/network/members"> <img src="https://img.shields.io/github/stars/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-</p>
 
 <h3>Requirements 📝</h3>
 
