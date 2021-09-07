@@ -3,15 +3,18 @@
 ### RɪZᴏᴇL X Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
 <p align="center"><a href="https://t.me/RiZoeLXMusic_Bot"><img src="https://telegra.ph/file/bfa483fd30e48867f234a.jpg" width="300"></a></p>
+# ᴄʀᴇᴀᴛᴏʀ
+ [![telegram badge](https://img.shields.io/badge/RiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
+
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/levina-lab/VeezMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/levina-lab/VeezMusic"> <img src="https://img.shields.io/github/repo-size/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/commits/main"> <img src="https://img.shields.io/github/last-commit/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/issues"> <img src="https://img.shields.io/github/issues/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/levina-lab/VeezMusic/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/MrRizoel/RiZoeLXMusic2.O/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O"> <img src="https://img.shields.io/github/repo-size/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/commits/main"> <img src="https://img.shields.io/github/last-commit/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/issues"> <img src="https://img.shields.io/github/issues/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/network/members"> <img src="https://img.shields.io/github/forks/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/MrRizoel/RiZoeLXMusic2.O/network/members"> <img src="https://img.shields.io/github/stars/MrRizoel/RiZoeLXMusic2.O?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 📝</h3>
@@ -25,9 +28,6 @@
 🧪 Get STRING_SESSION from below:
 
 TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py)
-
-🎖 History
-- [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/levina-lab/VeezMusic)
 
 ## Features 🔮
 
@@ -100,7 +100,7 @@ The easy way to host this bot, deploy to Heroku
 ## Railway Deployment 🚄
 For deployment on railway you can see the full of [Necessary Variables Here](https://github.com/levina-lab/VeezMusic/blob/main/example.env), make sure you fill all of it.
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/levina-lab/VeezMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,GROUP_SUPPORT,ASSISTANT_NAME,OWNER_NAME,OWNER_ID,DATABASE_URL,LOG_CHANNEL,BROADCAST_AS_COPY,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT,THUMB_IMG)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/MrRizoel/RiZoeLXMusic2.O&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,GROUP_SUPPORT,ASSISTANT_NAME,OWNER_NAME,OWNER_ID,DATABASE_URL,LOG_CHANNEL,BROADCAST_AS_COPY,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT,THUMB_IMG)
 
 ## Deploy On VPS 💜
 
@@ -117,15 +117,5 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - `vim .env` #Fill up your ENVs ( Steps press `i` to enter in insert mode then edit the file. Press `Esc` to exit the editing mode then type `:wq!` and press `Enter` key to save the file.)
 - `python3 main.py` # Run the bot
 
-### Special Credits 💖
-- [Levina](https://github.com/levina-lab): Dev
-- [Tofik](https://github.com/tofikdn): Dev
-- [Zxce3](https://github.com/Zxce3): Dev
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/callsmusic/callsmusic) CallsMusic
-- [Veez Music Bot](https://t.me/veezmusicbot) Our Music Bot
-- [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
-- [TeamDaisyX](https://github.com/TeamDaisyX) for base code
-
 ### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DNHxHELL"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/DragNeelOP"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
