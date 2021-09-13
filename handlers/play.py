@@ -582,7 +582,7 @@ async def play(_, message: Message):
             toxxt = "⚡ __choose a song to play:__\n\n"
             j = 0
             useer=user_name
-            emojilist = ["⓵","⓶","⓷","⓸","⓹","⓺"]
+            emojilist = ["⓵","⓶","⓷","⓸","⓹"]
             while j < 6:
                 toxxt += f"{emojilist[j]} [{results[j]['title'][:30]}](https://youtube.com{results[j]['url_suffix']})\n"
                 toxxt += f" ├ 💡 **Duration** - {results[j]['duration']}\n"
@@ -599,9 +599,6 @@ async def play(_, message: Message):
                         InlineKeyboardButton("⓸", callback_data=f'plll 3|{query}|{user_id}'),
                         InlineKeyboardButton("⓹", callback_data=f'plll 4|{query}|{user_id}'),
                     ],
-                    [
-                        InlineKeyboardButton("⓺", callback_data=f'plll 5|{query}|{user_id}'),
-                    ],
                     [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
                 ]
             )
@@ -612,9 +609,9 @@ async def play(_, message: Message):
             )
 
             await lel.delete()
-            # veez project
+            #RiZoelXMusic
             return
-            # veez project
+            #RiZoeLXMusic
         except:
             await lel.edit("__no more results to choose, starting to playing...__")
                         
