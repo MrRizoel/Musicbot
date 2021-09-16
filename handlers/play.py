@@ -577,13 +577,13 @@ async def play(_, message: Message):
           results = YoutubeSearch(query, max_results=6).to_dict()
         except:
           await lel.edit("**please give a song name you want to play !**")
-        # veez project
+        #RiZoeLXMuSic
         try:
             toxxt = "⚡ __choose a song to play:__\n\n"
             j = 0
             useer=user_name
             emojilist = ["⓵","⓶","⓷","⓸","⓹"]
-            while j < 6:
+            while j < 5:
                 toxxt += f"{emojilist[j]} [{results[j]['title'][:30]}](https://youtube.com{results[j]['url_suffix']})\n"
                 toxxt += f" ├ 💡 **Duration** - {results[j]['duration']}\n"
                 toxxt += f" └ ⚡ __Powered by {BOT_NAME} A.I__\n\n"
