@@ -50,10 +50,6 @@ async def start_(client: Client, message: Message):
                     ),
                     InlineKeyboardButton(
                         "❓ How to use Me", callback_data="cbhowtouse")
-                ],[
-                    InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
-                    )
                 ]
             ]
         ),
@@ -127,11 +123,6 @@ async def help_(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                         "📙 Owner Cmd", callback_data="cbowner"
-                    )
-                ],
-                [
-                    InlineKeyboardButton(
-                        "📔 Fun Cmd", callback_data="cbfun"
                     )
                 ]
             ]
