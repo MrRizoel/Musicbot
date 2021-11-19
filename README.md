@@ -108,5 +108,4 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - `vim .env` #Fill up your ENVs ( Steps press `i` to enter in insert mode then edit the file. Press `Esc` to exit the editing mode then type `:wq!` and press `Enter` key to save the file.)
 - `python3 main.py` # Run the bot
 
-### Support & Updates 🎑
-<a href="https://t.me/DNHxHELL"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/DragNeelOP"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
