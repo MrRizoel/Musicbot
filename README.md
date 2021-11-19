@@ -1,12 +1,4 @@
-<h2 align="centre">🖤 RɪZᴏᴇL X MᴜSɪᴄ </h2>
-
-### RɪZᴏᴇL X Music is a telegram bot project that's allow you to play music on telegram voice chat group.
-
-<p align="center"><a href="https://t.me/RiZoeLXMusic_Bot"><img src="https://telegra.ph/file/bfa483fd30e48867f234a.jpg" width="300"></a></p>
-
-### ᴄʀᴇᴀᴛᴏʀ
- [![telegram badge](https://img.shields.io/badge/RiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
-
+<h2 align="centre">🖤 MᴜSɪᴄ Bot </h2>
 
 <h3>Requirements 📝</h3>
 
@@ -108,4 +100,8 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - `vim .env` #Fill up your ENVs ( Steps press `i` to enter in insert mode then edit the file. Press `Esc` to exit the editing mode then type `:wq!` and press `Enter` key to save the file.)
 - `python3 main.py` # Run the bot
 
+# Credits 
 
+
+
+- [VeezMusicProject](https://github.com/levina-lab/VeezMusic)
