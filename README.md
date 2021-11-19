@@ -78,10 +78,10 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/veezmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/Musicbot)
 
 ## Railway Deployment 🚄
-For deployment on railway you can see the full of [Necessary Variables Here](https://github.com/levina-lab/VeezMusic/blob/main/example.env), make sure you fill all of it.
+For deployment on railway you can see the full of [Necessary Variables Here](https://github.com/MrRizoel/Musicbot/blob/main/example.env), make sure you fill all of it.
 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/MrRizoel/RiZoeLXMusic2.O&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,GROUP_SUPPORT,ASSISTANT_NAME,OWNER_NAME,OWNER_ID,DATABASE_URL,LOG_CHANNEL,BROADCAST_AS_COPY,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT,THUMB_IMG)
 
@@ -93,8 +93,8 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - `curl -sL https://deb.nodesource.com/setup_16.x | bash -`
 - `sudo apt-get install -y nodejs`
 - `npm i -g npm`
-- `git clone https://github.com/levina-lab/VeezMusic` # Clone your repo.
-- `cd VeezMusic`
+- `git clone https://github.com/MrRizoel/Musicbot` # Clone your repo.
+- `cd Musicbot`
 - `pip3 install -U -r requirements.txt`
 - `cp example.env .env` #Use vim to edit ENVs
 - `vim .env` #Fill up your ENVs ( Steps press `i` to enter in insert mode then edit the file. Press `Esc` to exit the editing mode then type `:wq!` and press `Enter` key to save the file.)
@@ -102,6 +102,6 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 
 # Credits 
 
-
-
+- [pytgcalls](https://github.com/pytgcalls/pytgcalls)  
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [VeezMusicProject](https://github.com/levina-lab/VeezMusic)
