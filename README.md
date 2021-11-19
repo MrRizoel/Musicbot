@@ -1,4 +1,4 @@
-<h2 align="centre">🖤 RɪZᴏᴇL X MᴜSɪᴄ 2.O</h2>
+<h2 align="centre">🖤 RɪZᴏᴇL X MᴜSɪᴄ </h2>
 
 ### RɪZᴏᴇL X Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
