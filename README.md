@@ -19,7 +19,6 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 - Showing track names when skipping
 - Youtube, Local playback support
 - Settings panel
-- Control with buttons
 - Userbot auto join
 - Channel Music Play
 - Keyboard selection support for youtube play
